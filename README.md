@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hola, soy Rodrigo Mendoza 
+
+🎓 Estudiante de Ingeniería en Inteligencia Artificial  
+💻 Apasionado por la IA, el análisis de datos y la innovación tecnológica  
+
+## 🧠 Lenguajes y herramientas
+Python, TensorFlow, PyTorch, VS Code
+
 
 <!--
 **RodrigoMendoza8/rodrigomendoza8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
