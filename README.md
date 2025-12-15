@@ -1,23 +1,29 @@
-# 👋 Hola, soy Rodrigo Mendoza 
+<div align="center">
+  <h1> Hola, soy Rodrigo Mendoza</h1>
+  <h3>Ingeniero en Inteligencia Artificial en formación</h3>
 
-🎓 Estudiante de Ingeniería en Inteligencia Artificial  
-💻 Apasionado por la IA, el análisis de datos y la innovación tecnológica  
+  <a href="Contacto correo:rodrigomendozardgz824@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🧠 Lenguajes y herramientas
-Python, TensorFlow, PyTorch, VS Code
+<br />
 
+## Tech Stack
+| Dominio | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Herramientas** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
-<!--
-**RodrigoMendoza8/rodrigomendoza8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyectos Destacados
 
-Here are some ideas to get you started:
+### [Predicción de Edad Ósea]
+Modelo de Deep Learning para estimar la edad ósea a partir de radiografías de manos.
+- **Tecnologías:** Python, TensorFlow, KaggleHub.
+- **Logro:** Implementación de pipelines de datos eficientes sin duplicidad de almacenamiento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Estadísticas
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMendoza8&show_icons=true&theme=radical)
