@@ -2,7 +2,7 @@
   <h1> Hola, soy Rodrigo Mendoza</h1>
   <h3>Ingeniero en Inteligencia Artificial en formación</h3>
 
-  <a href="Contacto correo:rodrigomendozardgz824@gmail.com">
+  <a href="mailto:rodrigomendozardgz824@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -15,13 +15,6 @@
 | **Lenguajes** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Herramientas** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-
-## Proyectos Destacados
-
-### [Predicción de Edad Ósea]
-Modelo de Deep Learning para estimar la edad ósea a partir de radiografías de manos.
-- **Tecnologías:** Python, TensorFlow, KaggleHub.
-- **Logro:** Implementación de pipelines de datos eficientes sin duplicidad de almacenamiento.
 
 ---
 
