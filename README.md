@@ -19,5 +19,6 @@
 ---
 
 ### Estadísticas
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMendoza8&show_icons=true&theme=radical)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMendoza8&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+
 
